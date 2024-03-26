@@ -1,0 +1,1 @@
+﻿Space::Send '^+={Down}{Enter}'
